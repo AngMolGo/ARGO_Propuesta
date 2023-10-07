@@ -1,0 +1,8 @@
+# Ignorar archivos binarios grandes
+*.mp4
+*.key
+*.pdsprj.*.workspace
+
+# Ignorar carpetas, voy a estar trabajando en yo_repre/ así que no lo quiten de aquí
+yo_repre/
+Project Backups/
