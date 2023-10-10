@@ -1,0 +1,7 @@
+# Ignorar archivos con las siguientes terminaciones (optar por quitar archivos grandes)
+*.mp4
+*.key
+*.pdsprj.*.workspace
+
+# Ignorar carpetas
+Project Backups/
